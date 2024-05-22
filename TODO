@@ -1,5 +1,5 @@
 - VERY IMPORTANT: come up with a dank name for this library
-- Support Docker authentication to Registry
+- Support Docker authentication to Registry, See https://datatracker.ietf.org/doc/html/rfc7235#section-4.1
 - Clean up Build
 - Actually having tests for stuff would be nice.
   - Use ZOD to run integration tests in a container
