@@ -1,0 +1,8 @@
+- VERY IMPORTANT: come up with a dank name for this library
+- Support Docker authentication to Registry
+- Clean up Build
+- Actually having tests for stuff would be nice.
+  - Use ZOD to run integration tests in a container
+- Switch to MIT instead of AGPL?
+- Add a README with instructions
+- Publish to NPM (probably not for a while...)
