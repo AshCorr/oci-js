@@ -1,3 +1,4 @@
-export * from "./constants"
-export * from "./descriptor"
-export * from "./registry"
+export * from "./constants";
+export * from "./types";
+export * from "./registry";
+export * from "./types";

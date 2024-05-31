@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "build": "tsc",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node --import tsx --test test/*.test.ts"
   },
   "author": "",
   "license": "AGPL-3.0-only",
@@ -17,6 +17,8 @@
   "devDependencies": {
     "@types/node": "^20.11.17",
     "@types/tar": "^6.1.11",
+    "testcontainers": "^10.9.0",
+    "tsx": "^4.11.0",
     "typescript": "^5.3.3"
   }
 }

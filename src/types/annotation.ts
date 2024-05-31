@@ -1,0 +1,16 @@
+export enum Annotation {
+  CREATED = "org.opencontainers.image.created",
+  AUTHORS = "org.opencontainers.image.authors",
+  URL = "org.opencontainers.image.url",
+  DOCUMENTATION = "org.opencontainers.image.documentation",
+  SOURCE = "org.opencontainers.image.source",
+  VERSION = "org.opencontainers.image.version",
+  REVISION = "org.opencontainers.image.revision",
+  VENDOR = "org.opencontainers.image.vendor",
+  LICENSES = "org.opencontainers.image.licenses",
+  REF_NAME = "org.opencontainers.image.ref.name",
+  TITLE = "org.opencontainers.image.title",
+  DESCRIPTION = "org.opencontainers.image.description",
+  BASE_DIGEST = "org.opencontainers.image.base.digest",
+  BASE_NAME = "org.opencontainers.image.base.name",
+}
